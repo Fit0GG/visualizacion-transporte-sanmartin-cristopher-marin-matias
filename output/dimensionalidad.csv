@@ -1,0 +1,10 @@
+,tipo,rol,cardinalidad
+aeropuerto_oaci,string,dimensión espacial nominal,70
+ambito,str,dimensión nominal,2
+anio,int32,dimensión temporal,27
+cnt_operaciones,int64,medida discreta,2843
+fecha,datetime64[us],dimensión temporal,322
+internacional_domestico,string,dimensión nominal,2
+mes,int32,dimensión ordinal temporal,12
+mes_id,int64,ID temporal,322
+trimestre,int32,dimensión ordinal temporal,4

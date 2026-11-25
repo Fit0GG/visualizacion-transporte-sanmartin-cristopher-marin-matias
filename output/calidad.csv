@@ -1,0 +1,4 @@
+variable,problema,evidencia,decision,justificacion
+clave,clave repetida,0,separar claves ambiguas,evitar doble conteo
+campos obligatorios,tipo/categoría/valor inválido,0,separar inválidos,no inventar valores
+fila completa,duplicado exacto,0,auditar sin deduplicación ciega,preservar trazabilidad

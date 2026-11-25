@@ -1,0 +1,5 @@
+,tipo,cardinalidad,nulos
+mes_id,int64,322,0
+aeropuerto_oaci,str,70,0
+internacional_domestico,str,2,0
+cnt_operaciones,int64,2843,0

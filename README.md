@@ -1,5 +1,5 @@
 ﻿# Evaluación 2 - Visualización de Datos de Transporte
-Autor: Cristopher San Martín
+Autor: Cristopher San Martín y Matías Marín
 
 ## Ejecución en Windows PowerShell
 ```powershell
@@ -15,7 +15,7 @@ Si la descarga falla, descargar manualmente el CSV oficial y guardarlo como `dat
 `data/raw`: fuente; `data/processed`: datos preparados y excluidos; `notebooks`: análisis; `src`: descarga; `output/figures`: gráficos; `docs`: documentación.
 
 ## Contexto del proyecto
-Cristopher San Martín | INACAP
+Cristopher San Martín y Matías Marín | INACAP
 ## Problema y fuente
 ¿Cómo se distribuyen las operaciones aeroportuarias registradas en Chile según aeropuerto, tiempo y ámbito doméstico/internacional?
 P1: ¿Qué aeropuertos concentran más operaciones? P2: ¿Cómo evolucionan mensualmente? P3: ¿Cómo difieren los ámbitos y la distribución de volúmenes mensuales?
@@ -66,5 +66,6 @@ Hipótesis: los diez mayores representan 70.15% del total; esta proporción desc
 Cobertura efectiva: 2000-01 a 2026-10. Filas originales 16231, retenidas 16231.
 
 ## Autor
-Cristopher San Martín
+Cristopher San Martín y Matías Marín
+
 
